@@ -1,0 +1,192 @@
+#project {border: 2px solid black; background-color: #ffffff; padding: 10px; padding: 10px; margin-right: auto; margin-left: auto; width: 700px; height: 850px; 
+
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px rgb(179, 169, 212);
+    margin-bottom: 5em;
+	margin-top: 20px;
+}
+
+footer {
+  margin-top : 50px;
+  padding : 10px;
+  text-align : center;
+  background-color : #333;
+  color : #ddd;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#image {width: 677px; height: 280px}
+#egypt {
+  width: 70px; height: 85px
+}
+#gover {
+  width: 70px;
+  height: 80px;
+  border: 2px;
+  box-align: center;
+
+}
+
+#label {
+	
+	width: 690px;
+	height: 50px;
+	border: 1px solid black;
+	border-style:dotted solid;
+	background:  #f2f2f2;
+	
+
+}
+
+a {
+	text-decoration: none;
+	color:blue;	
+	
+	
+}
+a:hover{
+	
+	
+	
+}
+.daleel{
+	background:  #8c8c8c;
+	padding: 5px;
+	margin: 10px;
+	float: left;
+	border-radius: 5px;
+
+}
+.web{
+	background:  #cc6699;
+	padding: 5px;
+	margin: 10px;
+	float: left;
+	border-radius: 5px;
+
+
+}
+.contact{
+	background:  #70dbdb;
+	padding: 5px;
+	margin: 10px;
+	float: left;
+	border-radius: 5px;
+
+	
+
+	
+}
+
+a:hover {
+	
+	background:  #0086b3;
+}	
+
+
+
+	
+#type1{
+	float: right;
+	padding: 10px;
+	margin: 20px;
+	margin-right: 150px;
+		
+}
+#type1:hover{
+	background:  #ff6666
+;
+		
+}
+#type2{
+	float: right;
+	padding: 10px;
+	margin: 20px;
+	margin-right: 150px;
+	
+}
+#type2:hover{
+	background:  #ff6666
+;
+}
+#type3{
+  border: 10px solid #fff;
+  float: right;
+  height: 100px;
+  width: 100px;
+  overflow: hidden;
+  box-shadow: 5px 5px 5px #111; 
+  margin-bottom: 10px;
+	
+  
+}
+#type3:hover{
+	 -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+	 width: 118px;
+     height: 118px;
+}
+
+#type4{
+  border: 10px solid #fff;
+  float: right;
+  height: 100px;
+  width: 110px;
+  overflow: hidden;
+  box-shadow: 5px 5px 5px #111;
+  margin-bottom: 10px;
+
+}
+#type4:hover{
+	 -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+	 width: 130px;
+     height: 120px;
+}
+
+
+/*mvbjmhgfjgfhjhgfjgfjnhgfjhgfjgfhjhngfjgf*/
+
+
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color : #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color:  #b3e6ff
+;
+  color: black;
+}
+
+/* Style the content */
